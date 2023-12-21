@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_joke">Botón</string>
+    <string name="TextView">¡Presiona el botón para generar un nuevo chiste!</string>
+</resources>
